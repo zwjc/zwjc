@@ -51,7 +51,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
    
   ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwjc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwsjc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwjc&theme=radical&border_radius=3)](https://git.io/streak-stats)
 </div>
