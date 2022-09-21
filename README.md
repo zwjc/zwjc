@@ -16,6 +16,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 
 ### :smile: About Me :
   - 🌱 I’m currently in my third year studying IT at KTH
+  - :zap: In my free time, I enjoy solving problems on LeetCode
   - 👯 I enjoy working on projects in large teams
   -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-chang-914a571b5)
 <!--
