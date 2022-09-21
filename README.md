@@ -24,10 +24,19 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 
 ### :hammer_and_wrench: Languages and Tools:
   <div>
- <a href="https://www.java.com/en/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
+  <a href="https://www.java.com/en/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://html.com/html5/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <a href="https://www.latex-project.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
+  <a href="https://atom.io/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
+  <a href="https://www.arduino.cc/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
+   
 </div>
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
