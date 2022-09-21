@@ -1,8 +1,8 @@
 <div id = "header", align="center">
-  <img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" , width ="200"/>
+  <img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" , width ="150"/>
 </div>
 
-### Hi there 👋
+### 👋 Hi there, welcome to my GitHub portfolio 👋
 My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. Check out my experience and education from my LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
