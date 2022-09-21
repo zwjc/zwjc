@@ -36,6 +36,12 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <a href="https://www.cprogramming.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
+  <a href="https://slack.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
+  <a href="https://trello.com/en">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello Workspace" **alt="Trello" width="40" height="40"/>
+  <a href="https://matlab.mathworks.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="Matlab" width="40" height="40"/>
    
 </div>
 <!--
