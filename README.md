@@ -43,6 +43,8 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   <a href="https://matlab.mathworks.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="Matlab" width="40" height="40"/>
    
+  ---
+ https://github-readme-streak-stats.herokuapp.com/?user=zwjc
 </div>
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
