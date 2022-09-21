@@ -23,6 +23,9 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   ---
 👨‍💻 Some projects I have worked on:
 - [ID1018 - Programming 1](https://github.com/zwjc/ID1018-Labb)
+- [IS1200 - Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
+- [IK1203 - Network and Communication](https://github.com/zwjc/ik1203)
+- [ID1021 - Algorithms and Data Structures](https://github.com/zwjc/id1021)
   ---
 ### :hammer_and_wrench: Languages and Tools:
   <div>
