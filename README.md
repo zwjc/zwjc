@@ -12,6 +12,10 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="600" height="300"/>
 </div>
 
+ ---
+
+### :IT-Projectmanager: About Me :
+  
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
