@@ -9,7 +9,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
