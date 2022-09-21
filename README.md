@@ -5,7 +5,10 @@
 ### Hi there 👋
 My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. 
 
-[LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+<div id="badges">
+  <a href="[your-linkedin-UR](https://www.linkedin.com/in/jeffrey-chang-914a571b5/)L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
