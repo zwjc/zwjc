@@ -15,11 +15,9 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
  ---
 
 ### :smile: About Me :
-  - 🌱 I’m currently learning ID1021 - Algorithms and Data structures
-  - 📫 How to reach me: <div id="badges">
-  <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  - 🌱 I’m currently in my third year studying IT at KTH
+  - 👯 I enjoy working on projects in large teams
+  -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-chang-914a571b5)
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
