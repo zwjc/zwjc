@@ -21,7 +21,9 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-chang-914a571b5)
   
   ---
-
+📄 Some projects I have worked on:
+  ID1018 - Programming 1 <a href= "https://github.com/zwjc/ID1018-Labb">
+  ---
 ### :hammer_and_wrench: Languages and Tools:
   <div>
   <a href="https://www.java.com/en/">
