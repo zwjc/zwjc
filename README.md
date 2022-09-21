@@ -5,7 +5,7 @@
 ### Hi there 👋
 My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. 
 
-LinkedIn-blue
+[LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
