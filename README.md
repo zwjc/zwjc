@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm.
-<div id = "header" align = "center">
+My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. <div id = "header">
   <img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" , width ="50"/>
 </div>
 <!--
