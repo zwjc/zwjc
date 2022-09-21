@@ -23,7 +23,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   ---
 📄 Some projects I have worked on:
   [I'm an inline-style link](https://www.google.com)
-  - [ID1018 - Programming 1] (https://github.com/zwjc/ID1018-Labb")
+[ID1018 - Programming 1](https://github.com/zwjc/ID1018-Labb")
   ---
 ### :hammer_and_wrench: Languages and Tools:
   <div>
