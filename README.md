@@ -3,6 +3,8 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 <div id = "header">
   <img src = "https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" , width ="50"/>
 </div>
+
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 <!--
 **zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
