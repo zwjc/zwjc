@@ -6,7 +6,7 @@
 My name is Jeffrey Chang and I am currently studying Information Technology in my 3rd year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. 
 
 <div id="badges">
-  <a href="[your-linkedin-UR](https://www.linkedin.com/in/jeffrey-chang-914a571b5/)L">
+  <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--
