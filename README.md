@@ -22,6 +22,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   
   ---
 👨‍💻 Some projects I have worked on:
+- [Personal Website](https://github.com/zwjc/website)
 - [II1305 - Project in ICT with Unity](https://github.com/filhed97/Klantboll)
 - [ID1018 - Programming 1](https://github.com/zwjc/ID1018-Labb)
 - [IS1200 - Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
