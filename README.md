@@ -14,7 +14,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 
  ---
 
-### :smile: About Me:
+### 😄 About Me:
   - 🌱 I’m currently in my third year studying IT at KTH
   - ⚡ In my free time, I enjoy solving problems on LeetCode and play football ⚽
   - 👯 I am experienced with working on projects in large teams
@@ -30,7 +30,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 - [IK1203 - Network and Communication](https://github.com/zwjc/ik1203)
 
   ---
-### :hammer_and_wrench: Languages and Tools:
+### 🛠️ Languages and Tools:
   <div>
   <a href="https://www.java.com/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
