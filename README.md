@@ -18,7 +18,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   - 🌱 I’m currently in my third year studying IT at KTH
   - ⚡ In my free time, I enjoy solving problems on LeetCode and play football ⚽
   - 👯 I am experienced with working on projects in large teams
-  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-chang-914a571b5)
+  - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc)
   
   ---
 👨‍💻 Some projects I have worked on:
@@ -28,26 +28,29 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 - [IS1200 - Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
 - [ID1021 - Algorithms and Data Structures](https://github.com/zwjc/id1021)
 - [IK1203 - Network and Communication](https://github.com/zwjc/ik1203)
+- [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/YileiCheng/PokeMe)
 
   ---
 ### 🛠️ Languages and Tools:
   <div>
   <a href="https://www.java.com/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <a href="https://www.javascript.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <a href="https://html.com/html5/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <a href="https://www.latex-project.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
-  <a href="https://atom.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
-  <a href="https://www.arduino.cc/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  <a href="https://code.visualstudio.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+  <a href="https://reactnative.dev">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
   <a href="https://www.cprogramming.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
   <a href="https://slack.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
-  <a href="https://trello.com/en">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello Workspace" **alt="Trello" width="40" height="40"/>
   <a href="https://matlab.mathworks.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="Matlab" width="40" height="40"/>
    
