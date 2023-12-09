@@ -32,15 +32,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 ### 🛠️ Languages and Tools:
   <div>
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,c,css,java,matlab,html,latex,vscode,slack,react,js,git)](https://skillicons.dev)
-  <a href="https://www.java.com/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <a href="https://www.javascript.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <a href="https://html.com/html5/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=elixir,c,css,java,matlab,html,latex,vscode,react,js,git)](https://skillicons.dev)
    
   ---
 
