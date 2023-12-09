@@ -15,8 +15,8 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   - 🌱 I’m currently in my fourth year studying ICT at KTH and doing my masters in Industrial Management and Engineering.
   - ⚡ In my free time, I enjoy solving problems on LeetCode, playing video games and playing football ⚽
   - 👯 I am experienced with working on projects in large teams
-  - 📬 How to reach me:
-\n [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc)
+  - 📬 How to reach me: <br />
+[![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc) <br />
   
   ---
 👨‍💻 Some projects I have worked on:
@@ -32,7 +32,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 ### 🛠️ Languages and Tools:
   <div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,css,html,c,vscode,react,js,matlab,latex,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,css,html,c,vscode,react,js,matlab,c#,latex,elixir)](https://skillicons.dev)
    
   ---
 
