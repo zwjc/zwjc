@@ -8,9 +8,6 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<div align="center">
-  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="600" height="300"/>
-</div>
 
  ---
 
@@ -34,6 +31,8 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   ---
 ### 🛠️ Languages and Tools:
   <div>
+
+    (https://skillicons.dev/icons?i=js,html,css,wasm,java)](https://skillicons.dev)
   <a href="https://www.java.com/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <a href="https://www.javascript.com">
