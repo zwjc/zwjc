@@ -32,7 +32,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 ### 🛠️ Languages and Tools:
   <div>
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,c,css,java,matlab,html,latex,vscode,slack,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,c,css,java,matlab,html,latex,vscode,slack,react,js,git)](https://skillicons.dev)
   <a href="https://www.java.com/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <a href="https://www.javascript.com">
@@ -41,18 +41,6 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <a href="https://html.com/html5/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <a href="https://www.latex-project.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="Latex" width="40" height="40"/>
-  <a href="https://code.visualstudio.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <a href="https://reactnative.dev">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming Language" **alt="C" width="40" height="40"/>
-  <a href="https://slack.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
-  <a href="https://matlab.mathworks.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" **alt="Matlab" width="40" height="40"/>
    
   ---
 
