@@ -16,7 +16,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   - ⚡ In my free time, I enjoy solving problems on LeetCode, playing video games and playing football ⚽
   - 👯 I am experienced with working on projects in large teams
   - 🏫 I’m currently learning dynamic web programming and frontend development
-  - 🍪 Fun fact: I am currently the Project Manager of [THS Armada](https://armada.nu), Scandinavia's largest career fair.
+  - 🍪 Fun fact: I am currently the Project Manager of [THS Armada](https://armada.nu), Scandinavia's largest career fair
   - 📬 How to reach me: <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc) <br />
   
