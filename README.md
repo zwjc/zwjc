@@ -12,9 +12,11 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
  ---
 
 ### 😄 About Me:
-  - 🌱 I’m currently in my fourth year studying ICT at KTH and doing my masters in Industrial Management and Engineering.
+  - 🌱 I’m currently in my fourth year studying ICT at KTH and doing my masters in Industrial Management and Engineering
   - ⚡ In my free time, I enjoy solving problems on LeetCode, playing video games and playing football ⚽
   - 👯 I am experienced with working on projects in large teams
+  - 🏫 I’m currently learning dynamic web programming and frontend development
+  - 🍪 Fun fact: I am currently the Project Manager of [THS Armada](https://armada.nu), which is a renumerated, one year, full-time job
   - 📬 How to reach me: <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc) <br />
   
@@ -38,17 +40,3 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwjc&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwjc&theme=radical&border_radius=3)](https://git.io/streak-stats)
 </div>
-<!--
-**zwjc/zwjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
