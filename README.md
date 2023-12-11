@@ -19,7 +19,7 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   - 🍪 Fun fact: I am currently the Project Manager of [THS Armada](https://armada.nu), Scandinavia's largest career fair
   - 📬 How to reach me: <br />
 [![Linkedin Badge](https://img.shields.io/badge/-Jeffrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zwjc) <br />
-[![E-mail Badge](https://img.shields.io/badge/-Jeffrey-green?style=flat&logo=email&logoColor=white)](mailto:zw.jchang@gmail.com) <br />
+[![E-mail Badge](https://img.shields.io/badge/-E-mail-green?style=flat&logo=email&logoColor=white)](mailto:zw.jchang@gmail.com) <br />
 
   
   ---
