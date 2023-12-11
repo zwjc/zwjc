@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Jeffrey Chang and I am currently studying Information Technology in my 4th year at the school of EECS at KTH Royal Institute of Tecnology in Stockholm. Check out my experience and education from my LinkedIn:
+My name is Jeffrey Chang and I am currently studying Information Technology in my 4th year at the school of EECS at KTH Royal Institute of Technology in Stockholm. Check out my experience and education from my LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/jeffrey-chang-914a571b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
