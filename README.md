@@ -25,12 +25,13 @@ My name is Jeffrey Chang and I am currently studying Information Technology in m
   ---
 👨‍💻 Some projects I have worked on:
 - [Personal Website](https://github.com/zwjc/website)
-- [II1305 - Project in ICT with Unity](https://github.com/filhed97/Klantboll)
+- [PokéMe - Dynamic Web Application](https://github.com/YileiCheng/PokeMe)
+- [Klantboll - A Unity3D Game Development Project](https://github.com/filhed97/Klantboll)
 - [ID1018 - Programming 1](https://github.com/zwjc/ID1018-Labb)
 - [IS1200 - Computer Hardware Engineering](https://github.com/zwjc/IS1200-Projekt)
 - [ID1021 - Algorithms and Data Structures](https://github.com/zwjc/id1021)
 - [IK1203 - Network and Communication](https://github.com/zwjc/ik1203)
-- [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/YileiCheng/PokeMe)
+- [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/zwjc/dh2642-labs)
 
   ---
 ### 🛠️ Languages and Tools:
