@@ -12,7 +12,7 @@ My name is Jeffrey Chang and I am currently studying Industrial Engineering in m
  ---
 
 ### 😄 About Me:
-  - 🌱 I’m currently in my fourth year studying ICT at KTH and doing my masters in Industrial Management and Engineering
+  - 🌱 I’m currently in my fourth year studying Industrial Engineering at KTH and doing my masters in Industrial Management and Engineering
   - ⚡ In my free time, I enjoy solving problems on LeetCode, playing video games and playing football ⚽
   - 👯 I am experienced with working on projects in large teams
   - 🏫 I’m currently learning dynamic web programming and frontend development
