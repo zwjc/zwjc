@@ -26,9 +26,7 @@
 - 🛠️ **Current Focus**  
   Dynamic web programming (React, TypeScript, Node.js) and modern frontend architecture.  
 - 🤝 **Teamwork**  
-  Proven leader: managed 100+ volunteers for THS Armada 2024, Scandinavia’s largest career fair.  
-- 🎮 **Interests**  
-  Competitive LeetCode problem‑solving, football ⚽, and game jams in Unity3D.  
+  Proven leader: managed 150+ volunteers for THS Armada 2024, Scandinavia’s largest career fair.  
 
 ---
 
@@ -59,13 +57,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zwjc&show_icons=true&theme=onedark" alt="Jeffrey’s GitHub Stats" width="49%">
 </p>
-
----
-
-## ⚙️ Let’s Collaborate
-
-I’m always open to innovative projects and challenging problems.  
-Feel free to ⭐ this repo, submit an issue, or drop me a line!
 
 ---
 
