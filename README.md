@@ -34,7 +34,7 @@
 
 | Project | Tech Stack | Description |
 | :-----: | :--------: | :---------- |
-| [🌐 Personal Website](https://github.com/zwjc/website) | Astro · Tailwind · TypeScript | A fast, responsive portfolio built with modern web primitives. |
+| [🌐 Personal Website](https://github.com/zwjc/myweb) | Astro · Tailwind · TypeScript | A fast, responsive portfolio built with modern web primitives. |
 | [🎮 Klantboll](https://github.com/filhed97/Klantboll) | Unity3D · C#       | Multiplayer arcade game prototype—crowd-sourced level design. |
 | [⚡ PokéMe](https://github.com/YileiCheng/PokeMe)       | React · Node.js    | Dynamic web app showcasing Pokémon data via RESTful API. |
 | [📚 ID1018 – Programming 1](https://github.com/zwjc/ID1018-Labb) | Python · GitHub Actions | Automated testing pipeline for student labs. |
