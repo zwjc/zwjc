@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Waving Hand">
 </p>
 
-<h1 align="center">Hi there, I’m Jeffrey Chang 👋</h1>
+<h1 align="center">Hi there, I’m Jeffrey 👋</h1>
 <p align="center">
-  Industrial Engineering undergrad &amp; aspiring full‑stack developer<br>
+  Industrial Engineering &amp; Management Student<br>
   KTH Royal Institute of Technology, Stockholm
 </p>
 
