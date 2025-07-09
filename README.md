@@ -37,10 +37,11 @@
 | [🌐 Personal Website](https://github.com/zwjc/myweb) | Astro · Tailwind · TypeScript | A fast, responsive portfolio built with modern web primitives. |
 | [🎮 Klantboll](https://github.com/filhed97/Klantboll) | Unity3D · C#       | Multiplayer arcade game prototype—crowd-sourced level design. |
 | [⚡ PokéMe](https://github.com/YileiCheng/PokeMe)       | React · Node.js    | Dynamic web app showcasing Pokémon data via RESTful API. |
-| [📚 ID1018 – Programming 1](https://github.com/zwjc/ID1018-Labb) | Python · GitHub Actions | Automated testing pipeline for student labs. |
-| [🔌 IS1200 – Computer Hardware](https://github.com/zwjc/IS1200-Projekt) | C · Verilog | Custom CPU datapath simulated in ModelSim. |
-| [📊 ID1021 – Algorithms & DS](https://github.com/zwjc/id1021) | C++ · STL | Optimized graph algorithms for route‑finding challenges. |
-| [🌐 DH2642 – Dynamic Web](https://github.com/zwjc/dh2642-labs) | JavaScript · AJAX | Interactive UI components and single‑page app patterns. |
+| [🌐 Game Web](https://github.com/zwjc/wordle)       | Vite · Typescript    | Personal website with fun collection of games. |
+| [📚 ID1018 – Programming 1](https://github.com/zwjc/ID1018-Labb) | Java | Automated testing pipeline for student labs. |
+| [🔌 IS1200 – Computer Hardware](https://github.com/zwjc/IS1200-Projekt) | C · MIPS | Custom CPU datapath simulated in ModelSim. |
+| [📊 ID1021 – Algorithms & Data Structures](https://github.com/zwjc/id1021) | Java| Optimized graph algorithms for route‑finding challenges. |
+| [🌐 DH2642 – Dynamic Web](https://github.com/zwjc/dh2642-labs) | JavaScript · React/Vue | Interactive UI components and single‑page app patterns. |
 
 ---
 
