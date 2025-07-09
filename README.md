@@ -47,7 +47,7 @@
 ## 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,html,css,ts,js,react,nodejs,python,astro,vue,postgresql,nestjs,tailwind,npm,pnpm,supabase,c,cs,cpp,python,unity,vscode,latex" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,git,html,css,ts,js,react,vite,nodejs,python,astro,vue,postgresql,nestjs,tailwind,npm,pnpm,supabase,c,cs,cpp,python,unity,vscode,latex" alt="Tech Stack">
 </p>
 
 ---
