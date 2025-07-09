@@ -53,10 +53,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zwjc&show_icons=true&theme=onedark" alt="Jeffrey’s GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwjc&layout=compact&langs_count=8&theme=onedark" alt="Top Languages">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/zwjc/zwjc/main/profile-3d-contrib/profile-night-green.svg" alt="GitHub Contrib">
 </p>
 
 ---
