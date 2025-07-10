@@ -20,7 +20,7 @@
 ## 🎯 About Me
 
 - 🎓 **Education**  
-  4th‑year B.Sc. in Industrial Engineering &amp; soon-to-start M.Sc. in Industrial Management and Engineering at KTH.  
+  4th‑year B.Sc. in Information & Communication Technology &amp; M.Sc. in Industrial Management and Engineering at KTH.  
 - 💡 **Mindset**  
   Analytical thinker who cuts through complexity—no fluff, only actionable insights.  
 - 🛠️ **Current Focus**  
